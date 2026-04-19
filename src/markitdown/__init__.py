@@ -3,6 +3,8 @@
 A fork of microsoft/markitdown with additional features and improvements.
 
 Note: Personal fork - experimenting with custom converters and output formatting.
+
+Upstream: https://github.com/microsoft/markitdown
 """
 
 from markitdown._markitdown import MarkItDown, DocumentConverter, ConversionResult
